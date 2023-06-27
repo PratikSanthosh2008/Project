@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Make Your Own Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Make Your Own Project"
+	}
+}
